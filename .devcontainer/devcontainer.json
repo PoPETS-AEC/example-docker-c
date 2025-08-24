@@ -1,0 +1,14 @@
+{
+  "name": "example-docker-c",
+  "dockerFile": "../Dockerfile",
+  "postCreateCommand": "",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        // General settings
+        "files.eol": "\n",
+        "editor.formatOnSave": true
+      }
+    }
+  }
+}
