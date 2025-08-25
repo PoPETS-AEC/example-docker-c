@@ -31,7 +31,7 @@ Then, follow either set of instructions:
 >
 > This [GitHub workflow](.github/workflows/build-push-docker-image.yaml)
 > automatically builds and pushes the Docker image to GitHub's Container Registry
-> when the `Dockerfile` or the `requirements.txt` files are modified.
+> when the `Dockerfile` file is modified.
 >
 > 1. Pull the Docker image:
 > ```bash
